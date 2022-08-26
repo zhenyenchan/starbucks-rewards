@@ -31,4 +31,4 @@ In this project, I combine simulated transaction, demographic and offer data and
 The main findings of the code can be found in this [Medium post](https://medium.com/@yen_290/predicting-starbucks-offer-conversions-with-xgboost-179ce3b3f22c).
 
 ## Licensing, Authors, Acknowledgements<a name="licensing"></a>
-The dataset and project design were sourced from Udacity and Starbucks. Some of the functions used in the code were taken from exercises as part of the Udacity Data Scientist nanodegree 2022.
+The dataset and project design were sourced from Udacity and Starbucks. Some of the functions used in the code were taken from exercises as part of the Udacity Data Scientist nanodegree 2022. I would also like to thank my family, friends and colleagues for their continuous support that helped me through this nanodegree. :)
